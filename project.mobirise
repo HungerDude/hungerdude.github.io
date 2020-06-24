@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "the-wasteland.html",
+    "currentPage": "rapture-ai.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -983,6 +983,9 @@
             "background-color": "@bgColor",
             ".mbr-text, blockquote": {
               "color": "#767676"
+            },
+            "DIV": {
+              "color": "#ffffff"
             }
           },
           "_name": "content2",
