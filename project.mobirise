@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page7.html",
+    "currentPage": "technology.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -5185,7 +5185,7 @@
         }
       ]
     },
-    "page7.html": {
+    "technology.html": {
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "The Technological Compendium",
